@@ -28,7 +28,7 @@
 
 <br/>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Godfrey-Tarry&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Tarry-Gaoseb&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
